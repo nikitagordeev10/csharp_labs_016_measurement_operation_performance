@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructBenchmarking", "StructBenchmarking.csproj", "{CC1C687A-2C3E-4D80-81A7-99D71F83BB53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "colleagues", "colleagues", "{41074DE1-FA08-4050-A8C1-B4682CC9826F}"
+	ProjectSection(SolutionItems) = preProject
+		nikitagordeev10_1.cs = nikitagordeev10_1.cs
+		RichardRadchenko.cs = RichardRadchenko.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC1C687A-2C3E-4D80-81A7-99D71F83BB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1C687A-2C3E-4D80-81A7-99D71F83BB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1C687A-2C3E-4D80-81A7-99D71F83BB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1C687A-2C3E-4D80-81A7-99D71F83BB53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D66B480-1EDC-41C4-9D08-014698FA4EDD}
+	EndGlobalSection
+EndGlobal
